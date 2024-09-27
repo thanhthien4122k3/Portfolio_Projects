@@ -13,7 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](README.md)
 - [Portfolio Projects](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#portfolio-projects)
   - Python
-    - [Evaluation of national high school exam scores 2024](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/3023939eff71aef49003edcc6c31949ff3b6586d/Score_Project_Analytics.ipynb)
+    - [Evaluation of national high school exam scores 2024](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#Analyzing-the-Factors-Contributing-to-the-Success-of-a-Movie)
   - SQL
     - [The SQL queries analyze employee](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#Explore-Human-source-data)
     - [PowerPoint](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/70f06f16f835f0a6ed8637c373bc773f8c4c77a9/Project.pdf)
