@@ -8,3 +8,8 @@ In my free time, I love exploring new data analysis tools and methods, always lo
 
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
+## Table of Contents
+- [About](Score_Project_Analytics.ipynb)
+- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+  - Python
