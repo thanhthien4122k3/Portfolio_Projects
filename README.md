@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [PowerPoint](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/70f06f16f835f0a6ed8637c373bc773f8c4c77a9/Project.pdf)
   - [Education](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#education)  
   - [Certificates](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#certificates)
-  - [Contacts](hhttps://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#contacts)
+  - [Contacts](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#contacts)
    
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -55,9 +55,9 @@ Bachelor of Information Technology - Major in Information Systems,
 October 2021 - October 2025 (expected)
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have:
 - [Ask Questions to Make Data-Driven Decisions](https://coursera.org/share/80e53e0ecc8eb3dacfcf63cda714f0ea) (Coursera - Google)
-- [Foundations: Data, Data, Everywhere](https://coursera.org/share/dd111110fde82be6c2222af912db191e) (Oct 2022) (Coursera - University of California, Davis)
+- [Foundations: Data, Data, Everywhere](https://coursera.org/share/dd111110fde82be6c2222af912db191e) (Coursera - Google)
 - [SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/78c0e31462af) (Hackerrank)
 - [Data Cleaning](https://www.kaggle.com/learn/certification/vthanhthen/data-cleaning) (Kaggle)
 - 
