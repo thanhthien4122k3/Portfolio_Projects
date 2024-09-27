@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [PowerPoint](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/70f06f16f835f0a6ed8637c373bc773f8c4c77a9/Project.pdf)
   - [Education](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#education)  
   - [Certificates](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#certificates)
-  - [Contact](hhttps://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#contacts)
+  - [Contacts](hhttps://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#contacts)
    
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
