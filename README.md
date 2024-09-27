@@ -14,13 +14,12 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#portfolio-projects)
   - Python
     - [Evaluation of national high school exam scores 2024](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/3023939eff71aef49003edcc6c31949ff3b6586d/Score_Project_Analytics.ipynb)
-    - SQL
+  - SQL
     - [The SQL queries analyze employee](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#Explore-Human-source-data)
-    - Power BI
     - [PowerPoint](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/70f06f16f835f0a6ed8637c373bc773f8c4c77a9/Project.pdf)
-    - [Education](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#education)  
-    - [Certificates](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#certificates)
-    - [Contact](hhttps://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#contacts)
+  - [Education](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#education)  
+  - [Certificates](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#certificates)
+  - [Contact](hhttps://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#contacts)
    
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -61,6 +60,7 @@ The best way to showcase skills is by doing and sharing your job done but someti
 - [Foundations: Data, Data, Everywhere](https://coursera.org/share/dd111110fde82be6c2222af912db191e) (Oct 2022) (Coursera - University of California, Davis)
 - [SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/78c0e31462af) (Hackerrank)
 - [Data Cleaning](https://www.kaggle.com/learn/certification/vthanhthen/data-cleaning) (Kaggle)
+- 
 ## Contacts
 - LinkedIn: [@Thiên Vũ Thanh](https://www.linkedin.com/in/vu-thanhthien)
 - Facebook: [Thanh Thien](https://www.facebook.com/vuthahthien)
