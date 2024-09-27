@@ -10,6 +10,7 @@ In my free time, I love exploring new data analysis tools and methods, always lo
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](Score_Project_Analytics.ipynb)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About](README.md)
+- [Portfolio Projects](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/main/README.md#portfolio-projects)
   - Python
+    - [Evaluation of national high school exam scores 2024](https://github.com/thanhthien4122k3/Portfolio_Projects/blob/3023939eff71aef49003edcc6c31949ff3b6586d/Score_Project_Analytics.ipynb)
